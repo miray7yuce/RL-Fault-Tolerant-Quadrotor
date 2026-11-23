@@ -1,0 +1,22 @@
+# MATLAB / Simulink generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mex*
+codegen/
+sccprj/
+*_ert_rtw/
+*_grt_rtw/
+*_rsim_rtw/
+*.slx.r20*
+*.mdl.r20*
+
+# RL training logs and checkpoints (large)
+savedAgents/
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
